@@ -1,0 +1,6 @@
+{
+  "name": "The Anime Bay",
+  "description": "A beautiful, fast, and completely free download portal for your favorite anime episodes, made with smooth interactive physics and cozy visual effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
